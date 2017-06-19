@@ -4,3 +4,9 @@ Exercícios do livro Algoritmos (Dasgupta)
 Exercícios:
 - 5.23
 - 6.8
+
+
+Componentes:
+- Bruno Lima
+- Diego Alysson
+- Flávio Alves
